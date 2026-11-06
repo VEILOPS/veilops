@@ -1,0 +1,41 @@
+NYXOPSIS 软件许可协议（专有 / 闭源）
+NYXOPSIS Proprietary License
+
+Copyright (c) 2026 NYXOPSIS. All rights reserved.
+
+一、授权范围
+
+1. 你被允许：
+   a. 拉取并运行本项目发布的容器镜像与可执行文件，用于个人或所在组织内部的合法用途；
+   b. 在内部环境中复制、部署、备份上述镜像与可执行文件；
+   c. 出于评估与集成目的引用本项目的名称、截图与公开文档。
+
+2. 你被禁止：
+   a. 获取、要求获取、分发、公开本项目未随附的源代码；
+   b. 对镜像或二进制进行反向工程、反编译、反汇编、脱壳，或以其他方式试图还原源代码；
+   c. 移除、遮蔽、修改任何版权声明、商标、品牌标识或授权提示；
+   d. 再分发、转售、出租、托管为对外商业服务（SaaS）或嵌入商业产品对外销售；
+   e. 将本软件用于任何未取得合法授权的目标与场景。
+
+二、无担保
+
+本软件按「现状」提供，不附带任何明示或默示担保，包括但不限于适销性、特定用途适用性与非侵权担保。
+在任何情况下，作者或版权持有人均不对因本软件或本软件的使用而产生的任何索赔、损害或其他责任负责。
+
+三、合法使用
+
+本软件是安全作业工具，仅可用于你拥有明确书面授权的目标。使用者须自行确保其使用行为符合所在地法律法规与
+授权范围。任何滥用行为与作者无关，由使用者自行承担全部责任。
+
+四、商业授权
+
+如需对外商业分发、SaaS 托管、二次开发或源码授权，请联系作者另行取得书面商业许可。
+
+---
+
+NYXOPSIS Proprietary License (English summary)
+
+Permission is granted to pull and run the published container images / binaries for internal, lawful use only.
+You may NOT obtain or redistribute the source code, reverse engineer the artifacts, remove branding, or resell /
+sub-license / offer the software as a hosted service without a separate written commercial license.
+The software is provided "AS IS", without warranty of any kind.
